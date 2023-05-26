@@ -15,3 +15,6 @@ def test_new() -> None:
 
 def test_newer() -> None:
     assert 2 != 1
+
+def test_newest() -> None:
+    assert 2 != 1
