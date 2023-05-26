@@ -6,4 +6,8 @@ def test_create_df() -> None:
 
 
 def test_fixed_test() -> None:
-    df = pd.DataFrame( {'afafafafaf': ["works"]})
+    df = pd.DataFrame({'afafafafaf': ["works"]})
+
+
+def test_new() -> None:
+    assert 2 != 0
