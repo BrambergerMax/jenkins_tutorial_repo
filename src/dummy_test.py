@@ -11,3 +11,7 @@ def test_fixed_test() -> None:
 
 def test_new() -> None:
     assert 2 != 0
+
+
+def test_newer() -> None:
+    assert 2 != 1
