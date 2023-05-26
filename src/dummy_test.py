@@ -6,4 +6,4 @@ def test_create_df() -> None:
 
 
 def test_failing_test() -> None:
-    df = pd.DataFrame( {'afafafafaf'}, 'afaf')
+    df = pd.DataFrame( {'afafafafaf'}, 'faf')
