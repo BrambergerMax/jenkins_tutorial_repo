@@ -1,0 +1,4 @@
+name: jenkins_learn_ci_cd
+dependencies:
+  - python==3.9.7
+  - pip>=22.2
